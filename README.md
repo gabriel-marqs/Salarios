@@ -8,5 +8,3 @@
  IMPOSTO DE RENDA
  https://www.pontotel.com.br/calcular-irrf/
  
-*EM PROGRESSO*
- 
